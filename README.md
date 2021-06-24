@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VyanPersad
-- 👀 I’m interested in android mobile app development and Web Development
+- 👀 I’m interested in android mobile app development and web development
 - 🌱 I’m currently learning HTML/CSS and Javascript and will move on to React.
 
 
